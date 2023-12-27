@@ -20,5 +20,5 @@ using JavaScript eventListeners.
 Responsive HTML, CSS, JavaScript theme for a local coffee shop.
 
 <b>DEMO</b>
-https://manojkumarbecse.github.io/Coffee-Junkie-master/
+
 
