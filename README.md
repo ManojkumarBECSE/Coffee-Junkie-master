@@ -19,4 +19,6 @@ using JavaScript eventListeners.
 <b>Description:</b><br>
 Responsive HTML, CSS, JavaScript theme for a local coffee shop.
 
+<b>DEMO</b>
+https://manojkumarbecse.github.io/Coffee-Junkie-master/
 
